@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1641412381 source:d:\algorytmy analizy numerycznej\gaus\main.cpp
+	<iostream>
+	<fstream>
+	<cstdlib>
+	<math.h>
+
